@@ -1,4 +1,8 @@
+$fontSize-mediumSmall: 21px;
+$fontSize-medium: 22px;
+$fontSize-big: 40px;
+
 p,
 ul {
-  font-size: 22px;
+  font-size: $fontSize-medium;
 }
